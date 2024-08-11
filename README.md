@@ -59,5 +59,3 @@ SAVE를 클릭하여 png확장자로 저장한 모습입니다.
 <br/>
 <br/>
 
-## 참고
-[노마드코더](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
